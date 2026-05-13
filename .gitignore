@@ -1,0 +1,31 @@
+# Build outputs
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Generated compiler outputs
+*.o
+*.ll
+*.s
+*.app
+*.exe
+app
+*_app
+
+# Local IDE and editor files
+.vs/
+.vscode/
+.idea/
+
+# Temporary report/render artifacts
+report_media_check*/
+tmp_render/
+*.tmp
+~$*.docx
+
+# OS files
+Thumbs.db
+.DS_Store
